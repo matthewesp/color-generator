@@ -82,6 +82,10 @@ body {
     margin: auto;
     width: 100%
   }
+
+  .color-value{
+    font-size: .75rem;
+  }
 }
 
 .navbar-dark .navbar-nav .nav-link {
@@ -102,10 +106,4 @@ body {
 
 .color-value {
   font-size: 1.5rem;
-}
-
-@media (max-width: 768px) {
-  .color-value{
-    font-size: .75rem;
-  }
 }
