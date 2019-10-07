@@ -99,3 +99,13 @@ body {
 .col-md-2 {
   cursor: default;
 }
+
+.color-value {
+  font-size: 1.5rem;
+}
+
+@media (max-width: 768px) {
+  .color-value{
+    font-size: .75rem;
+  }
+}
